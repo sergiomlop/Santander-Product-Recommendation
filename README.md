@@ -10,7 +10,7 @@ In this project, I provide a graphical analysis and data preparation of this hug
 
 Due to the repository size limits, I can't upload full dataset used.
 Instead you can found all the data used on [Santander Product Recommendation - Kaggle Competition.](https://www.kaggle.com/c/santander-product-recommendation/)  
-Despite the problem, I upload memory reduction script and the already reduced files.
+Despite the problem, I upload memory reduction script and the already-reduced files.
 
 	data_memred.pkl.zip (This one is avaliable running code from 1st jupyter notebook/python file)
 	data_modelling_memred.pkl.zip
