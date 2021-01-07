@@ -4,7 +4,7 @@ Santander is challenging users in Kaggle to predict which products their existin
 
 With a more effective recommendation system in place, Santander can better meet the individual needs of all customers and ensure their satisfaction no matter where they are in life.
 
-In this project, I provide a graphical analysis and data preparation of this huge dataset. In order to extract as much information as possible, I reduce its memory size so I could work with it completely. Finally, I create a model to predict according to a customer's behavior whether or not this customer will buy a product from Banco Santander in the last month.
+In this project, I provide a graphical analysis and data preparation of this huge dataset. In order to extract as much information as possible, I reduce its memory size so I could work with it completely. Finally, __I create a model to predict according to a customer's behavior whether or not this customer will buy a product from Banco Santander in the last month.__
 
 ## Data
 
